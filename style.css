@@ -1,0 +1,61 @@
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+.conteiner{
+width: 100%;
+    padding: 25px 125px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.bye-now{
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 12px;
+}
+.cat1{
+    background-color: orange;
+   
+}
+.cat2{
+    background-color: #ff136f ;
+}
+.cat3{
+    background-color: mediumblue;
+}
+.categories h1{
+color: white;    
+}
+.categories img{
+    width: 90px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px black;
+   
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe h6{
+    color: teal;
+}
+ #subscribe{
+     padding: 25px 125px;
+ }
+ footer{
+     text-align: center;
+ }
