@@ -2,7 +2,7 @@
     background-color: #fceae8;
     border-radius: 15px;
 }
-.conteiner{
+.container{
 width: 100%;
     padding: 25px 125px;
 }
@@ -53,9 +53,8 @@ color: white;
 #subscribe h6{
     color: teal;
 }
- #subscribe{
-     padding: 25px 125px;
- }
+ 
+ 
  footer{
      text-align: center;
  }
